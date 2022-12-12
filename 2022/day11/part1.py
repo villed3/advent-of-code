@@ -1,6 +1,5 @@
 import os
 import queue
-import operator
 
 dir = os.path.dirname(__file__)
 f = open(dir + '/input.XSCORE.txt', 'r')
